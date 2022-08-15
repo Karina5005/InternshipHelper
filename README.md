@@ -1,4 +1,4 @@
-# InternshipHelper
+# InternshipHelper project
 
 ## Запуск сервера
 ``` 
